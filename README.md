@@ -3,7 +3,12 @@
 <h3 align="center">A passionate Full Stack Web Developer well aware about all the topics related to frontend development, backend development and managing database.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<h1 align="center">Hi 👋, I'm Ritesh Jana</h1>
+<h3 align="center">A passionate Full Stack Web Developer well aware about all the topics related to frontend development, backend development and managing database.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeordecode&label=Profile%20views&color=0e75b6&style=flat" alt="codeordecode" /> </p>
+
+- 🔭 I’m currently working on **MERN Stack Projects**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
@@ -15,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/codeordecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeordecode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/codeordecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codeordecode" height="30" width="40" /></a>
 <a href="https://fb.com/codeordecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codeordecode" height="30" width="40" /></a>
 </p>
