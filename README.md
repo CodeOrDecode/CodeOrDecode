@@ -1,3 +1,8 @@
+[![MasterHead](https://www.cloudmoyo.com/wp-content/uploads/2019/06/Capabilities-2.png)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Ritesh Jana</h1>
+<h3 align="center">A passionate Full Stack Web Developer well aware about all the topics related to frontend development, backend development and managing database.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <h1 align="center">Hi 👋, I'm Ritesh Jana</h1>
 <h3 align="center">A passionate Full Stack Web Developer well aware about all the topics related to frontend development, backend development and managing database.</h3>
 
