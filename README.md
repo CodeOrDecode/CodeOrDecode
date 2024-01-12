@@ -1,6 +1,6 @@
 <div align="center"><img src="https://engineeric.com.pk/wp-content/uploads/2018/05/webdevelopment-logo.jpg"></div>
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="34"; display: inline-block;" data-target="animated-image.originalImage"> , I'm Ritesh Jana</h1>
-<h3 align="center">A passionate Full Stack Web Developer well aware about all the topics related to frontend
+<h3 align="center">A passionate Full Stack Web Developer well aware about frontend
     development, backend development and managing database.</h3>
 
 <p align="left"> <img
