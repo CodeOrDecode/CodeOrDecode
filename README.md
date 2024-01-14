@@ -10,11 +10,11 @@
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **MERN Stack Projects**.
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**.
 
-- 💬 Ask me about **Frontend development, Backend development**
+- 💬 Ask me about **Frontend development, Backend development**.
 
 - 📫 How to reach me **janaritesh17@gmail.com**
 
