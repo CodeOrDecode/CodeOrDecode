@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **janaritesh17@gmail.com**
 
-- 👨‍💻 Portfolio - **https://portfolio-ritesh-jana.vercel.app/**
+- 👨‍💻 Portfolio - **https://portfolio-ritesh-jana-ovi2.vercel.app/**
 
 - ⚡ Fun fact **Whenever I get board of doing projects I like to do some funny thing to get some positive energy.**
 
