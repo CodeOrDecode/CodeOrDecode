@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **MERN Stack Projects**.
+- 🔭 I’m currently working on **Data Structures and Algorithms**.
 
 - 🌱 I’m currently learning **MERN Stack Development**.
 
