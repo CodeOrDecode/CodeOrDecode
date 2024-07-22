@@ -47,6 +47,6 @@
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeordecode&show_icons=true&locale=en" alt="codeordecode" /></div>
 <br>
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeordecode&" alt="codeordecode" /></div>
-
-<div style="margin-top: 100px" align="center"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></div>
+<br>
+<div align="center"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></div>
 
